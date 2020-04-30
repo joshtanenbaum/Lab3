@@ -4,8 +4,8 @@ Extra Credit:
 1) Dartmouth logo behind each note
 
 
-Screencap1 (clicked picture gets blue border and transforms y coordinate decreases)
+Screencap1 (notes)
 ![Alt text](screencap1.png?raw=true)
 
-Screencap2 (submit button cycle through different colors on hover)
+Screencap2 (notes in new spot, note 3 edited)
 ![Alt text](screencap2.png?raw=true)
